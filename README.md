@@ -13,4 +13,4 @@ To use the RESTService and and access the web server
 3. Start the server with node server.js
 4. Go to web browser
   - Type in http://localhost:3000
-    - You will be greated with 'Hello World'
+    - You will be greeted with 'Hello World'
