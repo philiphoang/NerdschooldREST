@@ -4,7 +4,7 @@
   "description": "RESTservices and modern js",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/philiphoang/NerdschooldREST/issues"
   },
-  "homepage": "https://github.com/philiphoang/NerdschooldREST#readme"
+  "homepage": "https://github.com/philiphoang/NerdschooldREST#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
