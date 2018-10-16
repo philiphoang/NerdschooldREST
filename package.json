@@ -1,0 +1,19 @@
+{
+  "name": "nerdschooldrest",
+  "version": "1.0.0",
+  "description": "RESTservices and modern js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiphoang/NerdschooldREST.git"
+  },
+  "author": "Philip Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philiphoang/NerdschooldREST/issues"
+  },
+  "homepage": "https://github.com/philiphoang/NerdschooldREST#readme"
+}
